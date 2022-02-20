@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c030bf32-88e6-4330-9169-54313dd1ca17": {
+      "ProjectGuid": "c030bf32-88e6-4330-9169-54313dd1ca17",
+      "DisplayName": "DjangoWebProject1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
